@@ -32,7 +32,10 @@
 2. 본인의 repo 로 fork하여 사용한다.
 3. fork한 repo를 백준허브에 연동한다.
 4. commit을 한 후에 PR을 날린다. 이때, ```이름/월.일 제출``` 형식으로 통일한다.
-5. 개인 repo에서 merge한다.
+    <br> 이때, merge 옵션을 **SQUASH** and Merge로 한다 (그래야 팀 repo에서 사진의 상단처럼 보인다)
+    <br> <img width="291" alt="image" src="https://github.com/SMWU-PB-FrontEnd/.github/assets/70503879/7cbf4f4f-0102-4ca6-923f-402f1756ca52">
+
+6. 개인 repo에서 각자가 merge한다.
 
 ## 📝 스터디 계획
 - 프로그래머스 코딩테스트 기초문제 매일 15문제  (6월 20일 ~ 6월 30일)
